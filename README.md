@@ -20,7 +20,7 @@ ShooterGame2DPython is a 2D shooting game built with Python using Pygame. In thi
 
 1. Clone this repository:
 
-git clone https://github.com/TheCuriousBuilder/ShooterGame2DPython.git
+git clone https://github.com/TheCuriousBuilder/shooter-game-2d
 
 2. Go into the project folder:
 
