@@ -1,6 +1,6 @@
-# ShooterGame2DPython
+# Void Breaker 2D
 
-ShooterGame2DPython is a 2D shooting game built with Python using Pygame. In this game, the player controls a character, shoots enemies, avoids attacks, and tries to get the highest score possible. This project helped me learn the basics of game development and programming.
+Void Breaker is a 2D shooting game built with Python using Pygame. In this game, the player controls a character, shoots enemies, avoids attacks, and tries to get the highest score possible. This project helped me learn the basics of game development and programming.
 
 ## Features
 
@@ -20,11 +20,11 @@ ShooterGame2DPython is a 2D shooting game built with Python using Pygame. In thi
 
 1. Clone this repository:
 
-git clone https://github.com/TheCuriousBuilder/shooter-game-2d
+git clone https://github.com/TheCuriousBuilder/void_breaker
 
 2. Go into the project folder:
 
-cd ShooterGame2DPython
+cd VoidBreaker
 
 3. Install Pygame:
 
