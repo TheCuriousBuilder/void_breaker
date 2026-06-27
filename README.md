@@ -32,7 +32,7 @@ pip install pygame
 
 4. Run the game:
 
-python main.py
+python VoidBreakerV3.py
 
 ## Controls
 
